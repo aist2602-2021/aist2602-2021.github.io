@@ -9,3 +9,4 @@ For more details, contact @ktlam regarding course issues.
 
 ---
 Last updated: {{ site.time }}
+Link for team b：https://aist2602-2021.github.io/project-milestone3-team-b/
